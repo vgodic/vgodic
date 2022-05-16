@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vgodic
-- 👀 I’m interested in Microsoft Advanced Specialization
 - 🌱 I’m currently learning DevOps and Azure Arc
-- 💞️ I’m looking to collaborate on similar projects
 - 📫 How to reach me 381 64 8 58 80 58
 
 <!---
